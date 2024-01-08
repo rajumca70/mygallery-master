@@ -14,7 +14,7 @@
     <a href="https://github.com/rajumca70/mygallery-master">
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
+    <a href="https://legacy.devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
       Challenge
     </a>
   </h3>
